@@ -13,4 +13,5 @@ Example of Hello World
 ## How it works
 *Open this repository and use it as a guide for creating your own hello-world file*
 
-
+## What to use
+You are able to use any **computer that has access to a web browser** complete this assignment. 
