@@ -14,4 +14,4 @@ ADDITIONAL DOCUMENTATION/
 * Interest
 * Hobbies
 
-<p style="font-family: 'Courier New', monospace;">This **heading** is in Courier New.</p>
+<p style="font-family: 'Times New Roman', monospace;">This **heading** is in Courier New.</p>
