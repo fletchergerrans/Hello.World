@@ -22,5 +22,4 @@ You are able to use any **computer that has access to a web browser** complete t
 - Favorite Markdown Syntax
 
 ## Rights to content
--View information about an individual's right to their intellectual property at [
-](https://www.wipo.int/about-ip/en/)
+-View information about an individual's right to their intellectual property at [(https://www.wipo.int/about-ip/en/)]
