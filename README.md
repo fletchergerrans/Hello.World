@@ -15,3 +15,8 @@ Example of Hello World
 
 ## What to use
 You are able to use any **computer that has access to a web browser** complete this assignment. 
+
+## Additional Information
+- Hobbies
+- Interests
+- Favorite Markdown Syntax
