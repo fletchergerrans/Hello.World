@@ -1,11 +1,11 @@
 # Hello-World
 First Repository
 ## TABLE OF CONTENTS
-- **Title** [Title]
-- **How it works** [How it works]
-- **What to use** [What to use]
-- **Additional Information** [Additional Information]
-- **Rights to Content** [Rights to content]
+- [**Title**](Title)
+- [**How it works**](How-it-works)
+- [**What to use**](What-to-use)
+- [**Additional Information**](Additional-Information)
+- [**Rights to Content**](Rights-to-content)
 
 ## Title
 Example of Hello World
@@ -22,4 +22,4 @@ You are able to use any **computer that has access to a web browser** complete t
 - Favorite Markdown Syntax
 
 ## Rights to content
--View information about an individual's right to their intellectual property at https://www.wipo.int/about-ip/en/
+* View information about an individual's right to their intellectual property at https://www.wipo.int/about-ip/en/
