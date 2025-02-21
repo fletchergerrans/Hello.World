@@ -1,15 +1,15 @@
 # Hello-World
 First Repository
 ## Table of Contents
-[**PROJECT TITLE**]
+**PROJECT TITLE**
 
-[*DESCRIPTION*]
+*DESCRIPTION*
 
-- [HOW TO RUN PROGRAM]
+- HOW TO RUN PROGRAM
 
 [FILES USED](#Files-used)
 
-[ADDITIONAL/
-DOCUMENTATION]
+ADDITIONAL DOCUMENTATION/
+* this should be on the next line with a bullet point
 
 [VERSIONING](#versioning)
