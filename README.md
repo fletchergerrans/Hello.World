@@ -10,6 +10,8 @@ First Repository
 [FILES USED](#Files-used)
 
 ADDITIONAL DOCUMENTATION/
-* this should be on the next line with a bullet point
+* Personal Files
+* Interest
+* Hobbies
 
 [VERSIONING](#versioning)
