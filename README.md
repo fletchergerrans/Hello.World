@@ -1,11 +1,11 @@
 # Hello-World
 First Repository
 ## TABLE OF CONTENTS
-**Title**
-**How it works**
-**What to use**
-**Additional Information**
-**Rights to Content**
+- **Title**
+- **How it works**
+- **What to use**
+- **Additional Information**
+- **Rights to Content**
 
 ## Title
 Example of Hello World
