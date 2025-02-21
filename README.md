@@ -1,17 +1,16 @@
 # Hello-World
 First Repository
-## Table of Contents
-**PROJECT TITLE**
+## TABLE OF CONTENTS
+**Title**
+**How it works**
+**What to use**
+**Additional Information**
+**Rights to Content**
 
-*DESCRIPTION*
+## Title
+Example of Hello World
 
-- HOW TO RUN PROGRAM
+##How it works
+*Open this repository and use it as a guide for creating your own hello-world file*
 
-[FILES USED](#Files-used)
 
-ADDITIONAL DOCUMENTATION/
-* Personal Files
-* Interest
-* Hobbies
-
-# This is a fresh heading for the next section!#
