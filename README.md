@@ -10,7 +10,7 @@ First Repository
 ## Title
 Example of Hello World
 
-##How it works
+## How it works
 *Open this repository and use it as a guide for creating your own hello-world file*
 
 
